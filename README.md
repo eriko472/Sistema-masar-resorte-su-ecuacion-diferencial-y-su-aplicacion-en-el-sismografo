@@ -1,1 +1,1 @@
-# Sistema-masar-resorte-su-ecuacion-diferencial-y-su-aplicacion-en-el-sismografo
+# Sistema-masa-resorte-su-ecuacion-diferencial-y-su-aplicacion-en-el-sismografo
